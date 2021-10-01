@@ -1,0 +1,40 @@
+.ligne{
+    display: flex;
+}
+.zone{
+
+    width: 60px;
+    height: 60px;
+    border: azure 2px solid;
+
+}
+
+.mur{
+
+    background-color: black;
+
+}
+
+.chemin{
+
+    background-color: white;
+
+}
+
+.tresor{
+
+    background-color: yellow;
+
+}
+
+.position{
+
+    background-color: turquoise;
+    
+}
+
+.joueur{
+
+    background-color: turquoise;
+
+}
